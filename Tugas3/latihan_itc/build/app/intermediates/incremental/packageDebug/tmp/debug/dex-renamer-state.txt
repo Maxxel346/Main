@@ -1,0 +1,4 @@
+#Thu Apr 28 12:32:52 ICT 2022
+base.0=F\:\\devfile\\DEV\\dart\\latihan_itc\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
